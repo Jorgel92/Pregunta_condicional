@@ -9,4 +9,3 @@ else if (numero!=1000 && numero>0 && numero<1000){
     
 }
 else if (numero<1 | numero>1000 ) {alert("Favor de escoger numero entre 1 y 1000")}
-
